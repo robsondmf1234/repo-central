@@ -6,6 +6,10 @@ public class BibliotecaApp {
 	
 		Livro l = new Livro();
 		
+		Usuario u = new Usuario();
+		
+		Emprestimo emprestimo = new Emprestimo();
+		
 	}
 
 }
